@@ -20,6 +20,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=misskiran&show_icons=true&locale=en&layout=compact" alt="misskiran" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=misskiran&show_icons=true&locale=en" alt="misskiran" /></p>
+
 
 
