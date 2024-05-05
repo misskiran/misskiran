@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Kiran</h1>
-<h3 align="center">I'm an Aspiring MLOps Engineer</h3>
+<h1 align="center">Hi There, I'm Kiran Mishra👋</h1>
+<h3>I'm a Kaggle contributor, Weaving magic with Datasets, a Developer building the Tools of Tomorrow, a Keen Chess player who also likes to talk about Geo-Politics and Diplomacy. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=misskiran&label=Profile%20views&color=0e75b6&style=flat" alt="misskiran" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=misskiran" alt="misskiran" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [https://linktr.ee/KiranMishra](https://linktr.ee/KiranMishra)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
