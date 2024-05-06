@@ -4,10 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=misskiran&label=Profile%20views&color=0e75b6&style=flat" alt="misskiran" /> </p>
 <P align="left"> 
--🔭 I'm currently working on My Machine Learning Concepts.
--🌱 I do my Contributions On Kaggle
--🤝 I'm gearing up for My Open Source Contribution with GSSOC'24 (GirlScript Summer Of Code).
--How To Reach Me?  [Press here](kiranmis005@gmail.com)
+-🔭 I'm currently working on My Machine Learning Concepts.<br>
+-🌱 I do my Contributions On Kaggle<br>
+-🤝 I'm gearing up for My Open Source Contribution with GSSOC'24 (GirlScript Summer Of Code).<br>
+-How To Reach Me?  [Press here](kiranmis005@gmail.com) <br>
 </p>
 <h3 align="left">Connect with me</h3>
 <p align="left">
