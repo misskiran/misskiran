@@ -1,10 +1,14 @@
 <h1 align="center">Hi There, I'm Kiran Mishra👋</h1>
 <h3>I'm a Kaggle contributor, Weaving magic with Datasets, a Developer building the Tools of Tomorrow, a Keen Chess player who also likes to talk about Geo-Politics and Diplomacy!!! </h3>
+<img align="right" alt="Coding Girl" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=misskiran&label=Profile%20views&color=0e75b6&style=flat" alt="misskiran" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=misskiran" alt="misskiran" /></a> </p>
-
+<P align="left"> 
+-🔭 I'm currently working on My Machine Learning Concepts.
+-🌱 I do my Contributions On Kaggle
+-🤝 I'm gearing up for My Open Source Contribution with GSSOC'24 (GirlScript Summer Of Code).
+-How To Reach Me?  [Press here](kiranmis005@gmail.com)
+</p>
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mkiran.25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mkiran.25" height="30" width="40" /></a>
