@@ -1,5 +1,5 @@
 <h1 align="center">Hi There, I'm Kiran Mishra👋</h1>
-<h3>I'm a Kaggle contributor, Weaving magic with Datasets, a Developer building the Tools of Tomorrow, a Keen Chess player who also likes to talk about Geo-Politics and Diplomacy!!! </h3>
+<h3>I'm an Open Source contributor, Weaving magic with Datasets, a Developer building the Tools of Tomorrow, a Keen Chess player who also likes to talk about Geo-Politics and Diplomacy!!! </h3>
 <img align="right" alt="Coding Girl" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=misskiran&label=Profile%20views&color=0e75b6&style=flat" alt="misskiran" /> </p>
