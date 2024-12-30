@@ -6,7 +6,7 @@
 <P align="left"> 
 -🔭 I'm currently working on My Machine Learning Concepts.<br>
 -🌱 I do my Contributions On Kaggle<br>
--🤝 I'm gearing up for My Open Source Contribution with GSSOC'24 .<br>
+
 
 </p>
 <h3 align="left">Connect with me</h3>
